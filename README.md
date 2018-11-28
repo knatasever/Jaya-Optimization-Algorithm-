@@ -15,6 +15,4 @@ maximum number of generations and population size, and
 number of design variables, most of the time common for any
 algorithms. It does not need any algorithm specific control
 parameters require extensive tuning before conducting the
-actual computational experiments. The work procedure of the
-Jaya algorithm is outlined in Algorithm-1 is simple to
-understand (Pandey, 2016).
+actual computational experiments (Pandey, 2016).
