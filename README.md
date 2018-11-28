@@ -1,5 +1,5 @@
 # Jaya-Optimization-Algorithm-
-Example of the use of a sample jaya optimization algorithm in a metamorphic malware solution
+The similarity of the two strings given in the project was measured by the lcs algorithm and jaya was used to optimize the results by creating a population.
 
 The Jaya is a simple and powerful global optimization
 algorithm developed by Rao(2016) has been successfully applied to the benchmark
